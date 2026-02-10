@@ -1,3 +1,6 @@
+# whack-a-mole
+A classic "Whack-a-Mole" game built with Python and Pygame.
+
 # 🐹 Whack-a-Mole
 
 A classic Whack-a-Mole arcade game built with Python and Pygame. Moles pop up on a 3×3 grid and you have **90 seconds** to whack as many as you can!
@@ -5,7 +8,6 @@ A classic Whack-a-Mole arcade game built with Python and Pygame. Moles pop up on
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-2.0%2B-green?logo=pygame)
 ![License](https://img.shields.io/badge/Licence-MIT-yellow)
-
 
 ## Features
 
@@ -16,10 +18,6 @@ A classic Whack-a-Mole arcade game built with Python and Pygame. Moles pop up on
 - **Game-over screen** — displays your final score with a rating and the option to play again or quit
 - **Pause / Resume** — press "P" at any time to pause the action
 - **Visual polish** — styled grid with holes, and moles drawn with eyes and a nose
-
-## Screenshots
-
-> *Add your own screenshots here after cloning the project.*
 
 ## Getting Started
 
@@ -68,10 +66,6 @@ A classic Whack-a-Mole arcade game built with Python and Pygame. Moles pop up on
 
 The repository includes `hit.wav` and `miss.wav`. If you would prefer to use your own sound effects, simply drop `hit.mp3` (or `hit.wav`) and `miss.mp3` (or `miss.wav`) into the project directory; the game checks for `.mp3` first and falls back to `.wav`.
 
-
-## Licence
-
-This project is licensed under the **MIT Licence**. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
