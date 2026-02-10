@@ -1,6 +1,3 @@
-# whack-a-mole
-A classic "Whack-a-Mole" game built with Python and Pygame.
-
 # 🐹 Whack-a-Mole
 
 A classic Whack-a-Mole arcade game built with Python and Pygame. Moles pop up on a 3×3 grid and you have **90 seconds** to whack as many as you can!
